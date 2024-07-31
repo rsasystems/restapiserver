@@ -2,11 +2,16 @@
   "name": "restapiserver",
   "version": "1.0.0",
   "description": "REST API SERVER",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "start": "node ./server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Renato da Silva Almeida",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1",
+    "jsonserver": "^0.1.6"
+  }
 }

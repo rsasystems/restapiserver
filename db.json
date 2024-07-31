@@ -1,0 +1,14 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Families",
+      "image": "https://restfulapi.net/wp-content/uploads/what-is-rest-api.png"
+    },
+    {
+      "name": "Colors",
+      "image": "https://restfulapi.net/wp-content/uploads/what-is-rest-api.png",
+      "id": "2"
+    }
+  ]
+}
